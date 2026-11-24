@@ -1,4 +1,4 @@
-![Glox Media Player Banner](banner.png)
+![Glox Media Player Banner](banner.webp)
 
 # Glox Media Player
 
